@@ -6,7 +6,7 @@ const AUTH_URL = `https://github.com/login/oauth/authorize?client_id=${GITHUB_CL
 export const AUTH_ENDPOINTS = {
   AUTH: AUTH_URL,
   GET_ACCESS_TOKEN: 'https://github.com/login/oauth/access_token',
-  CALLBACK: 'http://localhost:5001/github/callback',
+  CALLBACK: '/github/callback',
 } as const;
 
 export const AUTH_TOKEN: string = 'Authorization';

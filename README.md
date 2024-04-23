@@ -9,10 +9,10 @@ An app where you can search github users.
 [![Vite][vite_img]][vite_url] 
 [![React][react_img]][react_url] 
 [![React Query][react_query_img]][react_query_url]
-[![React Zustand][zustand_img]][zustand_url] 
-[![pnpm][pnpm_img]][pnpm_url]
+[![React Zustand][zustand_img]][zustand_url]
 [![TypeScript][typescript_img]][typescript_url] 
 [![Tailwind][tailwind_img]][tailwind_url]
+[![yarn][yarn_img]][yarn_url]
 [![ESLint][eslit_img]][eslint_url]
 
 ---
@@ -125,10 +125,10 @@ the following extensions:
 [tailwind_img]: https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white
 [typescript_url]: https://www.typescriptlang.org/ 
 [typescript_img]: https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white 
-[eslint_url]: https://eslint.org/ 
+[eslint_url]: https://eslint.org/
 [eslit_img]:https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white 
-[pnpm_url]: https://pnpm.io/
-[pnpm_img]: https://img.shields.io/badge/pnpm-yellow?style=for-the-badge&logo=pnpm&logoColor=white 
+[yarn_url]: https://yarnpkg.com/ 
+[yarn_img]: https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white 
 [zustand_url]: https://zustand-demo.pmnd.rs/ 
 [zustand_img]: https://img.shields.io/badge/react%20zustand-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB
 
